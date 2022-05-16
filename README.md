@@ -1,5 +1,4 @@
-# So_long
-**Small 2D game "Happy new year".**
+<h1 align="center">So_long </h1>
 
 This study project is a very small 2D game.
 

@@ -1,5 +1,5 @@
 # So_long
-Small 2D game "Happy new year". 
+**Small 2D game "Happy new year".**
 
 This study project is a very small 2D game.
 
